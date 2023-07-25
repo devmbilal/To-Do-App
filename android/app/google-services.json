@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872328902883",
+    "project_id": "devbilal-to-do-app",
+    "storage_bucket": "devbilal-to-do-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872328902883:android:4ec1ef1c4b293ec864edd6",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872328902883-k53gjtnjmft6b2pflhqbni9qrrhqe3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA93K6N_LBkE09E7vt6-UML27VF3Chtwtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872328902883-k53gjtnjmft6b2pflhqbni9qrrhqe3b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
