@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import '../../../theme/colors.dart';
+import '../../../theme/typography.dart';
+import '../../../utils/assets.dart';
+part 'widgets/_upper_container.dart';
+
+class HomeScreen extends StatefulWidget {
+  const HomeScreen({super.key});
+
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(
+      body: Column(
+        children: [
+          _HomeUpperContainer(),
+        ],
+      ),
+    );
+  }
+}
